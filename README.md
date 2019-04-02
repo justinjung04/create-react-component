@@ -1,5 +1,7 @@
 # Create React Component
 
+Create React components through CLI.
+
 ## Install
 ```
 npm install create-react-component --save-dev
