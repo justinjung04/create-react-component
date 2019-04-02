@@ -14,6 +14,18 @@ or
 npx create-react-component
 ```
 
+## Creating
+
+When the question comes up, you can write your component's name
+```
+Component name(s): MyButton
+```
+
+To create multiple components, add the names with comma
+```
+Component name(s): Header, Body, Footer
+```
+
 ## Configuration
 
 ### crc.config.js
