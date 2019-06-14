@@ -4,7 +4,7 @@ Create React components through CLI.
 
 ## Install
 ```
-npm install create-react-component --save-dev
+npm install @justinjung04/create-react-component --save-dev
 ```
 
 ## Run
