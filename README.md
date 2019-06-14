@@ -97,6 +97,6 @@ Options:
   --css           Inlcude .css file (default)
   --less          Inlcude .less file
   --scss          Inlcude .scss file
-  --nocss         Do not inlcude .scss file
+  --nocss         Do not inlcude .css file
   --path          Set path to the component folder
 ```
